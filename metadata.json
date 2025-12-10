@@ -1,0 +1,7 @@
+{
+  "name": "Style",
+  "description": "AI-Powered Virtual Wardrobe & Outfit Visualizer. Digitize your wardrobe and generate photorealistic outfit combinations using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
